@@ -1,3 +1,5 @@
+// Copy the shell command bellow, paste it in your AppleScript Editor and save.
+
 on run
     do shell script "open -n /Applications/VLC.app"
     tell application "VLC" to activate
